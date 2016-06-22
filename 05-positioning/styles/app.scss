@@ -17,7 +17,7 @@ body {
   border: 1px solid #cecfd5;
   border-radius: 3%;
 
-  width: 33%;
+  width: 30%;
   padding: 2.5rem;
   margin-top: 5rem;
 
@@ -32,6 +32,7 @@ body {
 .lesson {
   margin-bottom: 2rem;
   color: #2db34a;
+  font-size: 1.1rem;
 
 }
 
@@ -83,6 +84,7 @@ ul {
 li {
   margin: .4rem;
   font-family: Geneva;
+  font-size: 1.5rem;
 }
 
 .bottom-content {
@@ -98,6 +100,11 @@ li {
   font-size: 2rem;
   margin: 0;
 
+}
+
+.icon {
+  display: inline-block;
+  margin-right: 0.5rem;
 }
 
 a {
